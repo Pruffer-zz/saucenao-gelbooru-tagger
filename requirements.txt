@@ -1,0 +1,3 @@
+saucenao-api
+requests
+beautifulsoup4
