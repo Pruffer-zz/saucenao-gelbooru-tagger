@@ -6,4 +6,4 @@ As far as I'm aware, Gelbooru unfortunately doesn't support this function in its
 
 To use with your own image - replace `'IMAGE URL HERE'` in main.py with a link to it.
 
-Code backup hosted at https://avantheim.org/usercontent/public/source/saucenao-gelbooru-tagger-main.zip
+Outputs in a JSON format.
