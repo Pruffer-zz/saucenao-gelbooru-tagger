@@ -1,3 +1,4 @@
 saucenao-api
 requests
 beautifulsoup4
+json
