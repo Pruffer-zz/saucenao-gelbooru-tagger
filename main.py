@@ -6,7 +6,7 @@ import requests
 
 # Get image from Gelbooru DB & search
 
-results = SauceNao(db=25).from_url('https://img2.gelbooru.com/images/b3/73/b37364a8aa1fe1bd5485e9403455f657.jpg')
+results = SauceNao(db=25).from_url('IMAGE URL HERE')
 
 # Assign the variable 'best' the first result's URL & print
 
